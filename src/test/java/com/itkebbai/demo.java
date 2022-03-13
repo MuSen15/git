@@ -6,5 +6,6 @@ public class demo {
         System.out.println("nihao1");
         System.out.println("nihao2");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
